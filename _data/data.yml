@@ -1,6 +1,6 @@
 basic:
-  name: Álvaro Rubio-Largo                      # name
-  title: Profesor Titular de Universidad @ Universidad de Extremadura           # job title
+  name: Álvaro Rubio-Largo, Ph.D.                      # name
+  title: Associate Professor @ University of Extremadura           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
