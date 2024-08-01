@@ -1,5 +1,5 @@
 basic:
-  name: Álvaro Rubio-Largo, Ph.D.                      # name
+  name: Álvaro Rubio-Largo, PhD                      # name
   title: Associate Professor @ University of Extremadura           # job title
   avatar:
     show: true                       # show or hide avatar
@@ -208,7 +208,7 @@ education:
     - institution: University of Extremadura
       link: '#'
       date: 2009 - 2013
-      major: Computer Science
+      major: PhD in Computer Science
       degree: PhD
       description: |
         + Awarded 'International Doctorate Mention' and 'Best PhD Thesis Award'
@@ -218,42 +218,37 @@ education:
     - institution: University of Extremadura
       link: '#'
       date: 2017
-      major: Secondary Education Teaching
+      major: Master's in Secondary Education Teaching (MUFPES)
       degree: MS
-      description: |
-        + Master's in Secondary Education Teaching
+      description:
 
     - institution: University of Extremadura
       link: '#'
       date: 2012
-      major: Engineering and Architecture Research
+      major: Master's in Engineering and Architecture Research (MUI)
       degree: MS
-      description: |
-        + Master's in Engineering and Architecture Research
+      description: 
 
     - institution: University of Extremadura
       link: '#'
       date: 2010
-      major: Grid Computing and Parallelism
+      major: Master's in Grid Computing and Parallelism
       degree: MS
-      description: |
-        + Master's in Grid Computing and Parallelism
+      description: 
+      
+    - institution: University of Extremadura
+      link: '#'
+      date: 2009
+      major: Master's in Computer Science (II)
+      degree: MS
+      description: 
 
     - institution: University of Extremadura
       link: '#'
       date: 2009
-      major: Computer Science
-      degree: MS
-      description: |
-        + Master's in Computer Science
-
-    - institution: University of Extremadura
-      link: '#'
-      date: 2009
-      major: Computer Science
+      major: Bacherlor's in Computer Science (ITIS)
       degree: BS
-      description: |
-        + Bachelor's in Computer Science
+      description: 
 
 certificate:
   show: false
