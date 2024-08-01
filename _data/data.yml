@@ -28,7 +28,7 @@ contact:
   threema:                 # userid            | https://threema.id/userid
 
   # programmer
-  github:                  # username          | https://github.com/username
+  github:                  arl-unex            | https://github.com/username
   gitlab:                  # username          | https://gitlab.com/username
   bitbucket:               # username          | https://bitbucket.com/username
   stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
@@ -39,11 +39,12 @@ contact:
   tryhackme:               # username          | https://tryhackme.com/p/username
 
   # academic
-  googlescholar:           # username          | https://scholar.google.com/citations?user=username
-  researchgate:            # username          | https://www.researchgate.net/profile/username
-  kaggle:                  # username          | https://www.kaggle.com/username
-  orcid:                   # id                | https://orcid.org/id
-  figshare:                # name/id           | https://figshare.com/authors/name/id
+  googlescholar:           UkDCdrwAAAAJ           | https://scholar.google.com/citations?user=username
+  researchgate:            Alvaro-Rubio-Largo     | https://www.researchgate.net/profile/username
+  kaggle:                  # username             | https://www.kaggle.com/username
+  orcid:                   0000-0003-2999-4304    | https://orcid.org/id
+  scopus:                  37124847300            | https://www.scopus.com/authid/detail.uri?authorId=username
+  figshare:                # name/id              | https://figshare.com/authors/name/id
 
   # writer
   devto:                   # username          | https://dev.to/username
